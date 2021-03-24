@@ -17,6 +17,10 @@ public class Contact {
 	private String description;
 
 	private String email;
+	
+	public Integer getId() {
+		return id;
+	}
 
 	public String getName() {
 		return name;
