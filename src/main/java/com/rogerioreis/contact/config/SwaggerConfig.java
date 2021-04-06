@@ -29,8 +29,8 @@ public class SwaggerConfig {
 
 	private ApiInfo metaInfo() {
 
-		ApiInfo apiInfo = new ApiInfo("Contacts API REST",
-				"API REST de Cadastro de Contatos.",
+		ApiInfo apiInfo = new ApiInfo("Backend API REST",
+				"API REST Backend",
 				"1.0",
 				"Terms of Service",
 				new Contact("Rogério Reis", "https://github.com/rogeriotadeudosreis/Projeto-Contact-Backend", "rogerio.rtr46@gmail.com"),
